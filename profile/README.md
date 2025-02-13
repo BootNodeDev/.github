@@ -1,5 +1,5 @@
-<img align="left" src="https://github.com/BootNodeDev/BootNode-2023/blob/446567d2bd89fd4a6b27911d5a46dba891460e01/public/external/images/rubik-negative-noText.svg#gh-dark-mode-only" width="400">
-<img align="left" src="https://github.com/BootNodeDev/BootNode-2023/blob/446567d2bd89fd4a6b27911d5a46dba891460e01/public/external/images/rubik-positive-noText.svg#gh-light-mode-only" width="400">
+<img align="left" src="https://raw.githubusercontent.com/BootNodeDev/BootNode-2023/refs/heads/main/public/external/images/rubik-positive-noText.svg?token=GHSAT0AAAAAACVAMYX332SXRPTNEPBZQFSUZ5OB4MQ#gh-dark-mode-only" width="400">
+<img align="left" src="https://raw.githubusercontent.com/BootNodeDev/BootNode-2023/refs/heads/main/public/external/images/rubik-negative-noText.svg?token=GHSAT0AAAAAACVAMYX2SDL3MYJMBNSB25LGZ5OB72Q#gh-light-mode-only" width="400">
 
 [BootNode](https://bootnode.dev) is a team of web3 builders with a strong track record in speeding up the development of protocols, dApps, and networks.
 
