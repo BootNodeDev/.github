@@ -9,7 +9,7 @@
 
 :ballot_box_with_check: Support projects beyond tech, at every step, doing everything within our reach to drive success.
 
-Since 2017, our team has scaled major projects within the Ethereum ecosystem, including Sky (MakerDAO), Gnosis, Aave, Synthetix, Derive (Lyra), Gelato Network, Everclear (Connext), Nexus Mutual, Infinex, Wormhole, Hyperlane, etc.
+Since 2017, our team has scaled major projects within the Ethereum ecosystem, including MakerDAO, Gnosis, Aave, Synthetix, Derive (Lyra), Gelato Network, Everclear (Connext), Nexus Mutual, Infinex, Wormhole, Hyperlane, etc.
 
 To learn more: [BootNode](https://linktr.ee/bootnode.dev)
 
